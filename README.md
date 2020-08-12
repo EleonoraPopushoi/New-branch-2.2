@@ -39,3 +39,13 @@
  ####
 ## Лицензия ##
 #### На первом экране необходимо согласиться с условиями лицензии GNU GPL. Внимательно их прочитайте! ####
+
+'''
+<script src="https://localhost/neuro.sdk.min.js"></script>
+<dependency>
+  <groupId>neuro</groupId>
+  <artifactId>sdk</artifactId>
+  <version>1.0.0</version>
+</dependency>
+
+'''
